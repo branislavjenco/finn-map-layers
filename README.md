@@ -1,7 +1,4 @@
-# finn-enhancer
-A Chrome Extension that adds functionality when browsing realty on Finn.no
+# Map layers on Finn.no
+An ultra-simple Chrome Extension that adds maps with useful layers when browsing listings on Finn.no.
 
-TODO:
-- [x] add basic functionality
-- [] see if it's useful in any way to make the map in ArcGIS
 

@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Finn-Enhancer",
+  "name": "Finn-MapLayers",
   "version": "1.0",
-  "description": "Adds features to Finn.no",
+  "description": "Adds map with layers to Finn.no",
   "permissions": ["tabs", "http://*/*", "https://*/*"],
   "content_scripts": [
     {
